@@ -1,6 +1,9 @@
 # README
 
 Demo how to use rswag-api, rswag-specs.
+
+
+rshell@edge-ka.com fork to play with definition of types and more complex parameter passing
  
 
 ### Setup

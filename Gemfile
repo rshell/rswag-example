@@ -9,6 +9,7 @@ gem 'dotenv-rails'
 gem 'draper'
 gem 'pagy'
 gem 'pg', '>= 0.18', '< 2.0'
+gem "sqlite3"
 gem 'puma', '~> 3.11'
 gem 'pundit'
 gem 'rack-cors'
